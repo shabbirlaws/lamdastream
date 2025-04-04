@@ -1,3 +1,13 @@
+Functional Interfaces:
+---------------------
+1. BiConsumer BiConsumer - java.util.function (Java Platform SE 8 ) - Oracle
+2. Supplier Supplier - java.util.function (Java Platform SE 8 ) - Oracle
+3. Consumer Java™ Platform Standard Ed. 8. Prev Class; Next Class ... T - the type of the input to …
+4. Function Type Parameters: T - the type of the input to the function R - the type of the result of …
+5. Predicate
+6. BiPredicate - java.util.function (Java Platform SE 8 ) - Oracle
+7. BiFunction Type Parameters: T - the type of the first argument to the function U - the type of …
+
 Java Streams:
 Different Operations On Streams
 There are two types of Operations in Streams:
